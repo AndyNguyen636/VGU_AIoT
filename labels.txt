@@ -1,0 +1,3 @@
+0 With glasses
+1 Without glasses
+2 Blank
